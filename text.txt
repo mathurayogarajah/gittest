@@ -1,1 +1,1 @@
-I am a file in master brance
+This is a text file in branch1
